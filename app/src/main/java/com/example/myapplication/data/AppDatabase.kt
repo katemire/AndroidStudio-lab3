@@ -35,7 +35,6 @@ abstract class AppDatabase : RoomDatabase() {
     }
 }
 
-// Рецепты из макетов лабораторной работы 2, чтобы список не был пустым
 private fun addStartRecipes(db: SupportSQLiteDatabase) {
     val sql = "INSERT INTO recipes (title, category, cookingTime, ingredients, instructions, isFavorite) " +
             "VALUES (?, ?, ?, ?, ?, ?)"

@@ -20,4 +20,41 @@
     <string name="nothing_found">Nothing found</string>
     <string name="photo_stub">[photo]</string>
     <string name="minutes">%d min</string>
+
+    <!-- Recipe screen -->
+    <string name="btn_back">Back</string>
+    <string name="fav_add">Add to favorites</string>
+    <string name="fav_remove">In favorites</string>
+    <string name="time_label">Time</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="btn_edit">Edit recipe</string>
+
+    <!-- Recipe form -->
+    <string name="form_new">New recipe</string>
+    <string name="form_edit">Edit recipe</string>
+    <string name="label_title">Recipe name *</string>
+    <string name="hint_title">Name</string>
+    <string name="label_category">Category *</string>
+    <string name="hint_category">Category</string>
+    <string name="label_time">Time *</string>
+    <string name="hint_time">Time</string>
+    <string name="unit_min">min</string>
+    <string name="label_ingredients">Ingredients *</string>
+    <string name="hint_ingredients">Ingredients</string>
+    <string name="label_instructions">Instructions *</string>
+    <string name="hint_instructions">Instructions</string>
+    <string name="btn_save">Save recipe</string>
+    <string name="btn_save_changes">Save changes</string>
+    <string name="btn_delete">Delete recipe</string>
+    <string name="required_note">* Required fields</string>
+    <string name="error_required">Required field</string>
+    <string name="error_time">Enter a number greater than zero</string>
+    <string name="toast_fill">Fill in the required fields</string>
+
+    <!-- Delete dialog -->
+    <string name="dialog_title">Delete recipe?</string>
+    <string name="dialog_text">The recipe will be removed from the recipe book. This action cannot be undone.</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete_confirm">Delete</string>
 </resources>

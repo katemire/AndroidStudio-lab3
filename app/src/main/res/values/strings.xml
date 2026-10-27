@@ -20,4 +20,41 @@
     <string name="nothing_found">Ничего не найдено</string>
     <string name="photo_stub">[фото]</string>
     <string name="minutes">%d мин</string>
+
+    <!-- Экран рецепта -->
+    <string name="btn_back">Назад</string>
+    <string name="fav_add">В избранное</string>
+    <string name="fav_remove">В избранном</string>
+    <string name="time_label">Время</string>
+    <string name="ingredients">Ингредиенты</string>
+    <string name="instructions">Приготовление</string>
+    <string name="btn_edit">Редактировать рецепт</string>
+
+    <!-- Форма рецепта -->
+    <string name="form_new">Новый рецепт</string>
+    <string name="form_edit">Изменить рецепт</string>
+    <string name="label_title">Название рецепта *</string>
+    <string name="hint_title">Название</string>
+    <string name="label_category">Категория *</string>
+    <string name="hint_category">Категория</string>
+    <string name="label_time">Время *</string>
+    <string name="hint_time">Время</string>
+    <string name="unit_min">мин</string>
+    <string name="label_ingredients">Ингредиенты *</string>
+    <string name="hint_ingredients">Ингредиенты</string>
+    <string name="label_instructions">Способ приготовления *</string>
+    <string name="hint_instructions">Способ приготовления</string>
+    <string name="btn_save">Сохранить рецепт</string>
+    <string name="btn_save_changes">Сохранить изменения</string>
+    <string name="btn_delete">Удалить рецепт</string>
+    <string name="required_note">* Обязательные поля</string>
+    <string name="error_required">Обязательное поле</string>
+    <string name="error_time">Введите число больше нуля</string>
+    <string name="toast_fill">Заполните обязательные поля</string>
+
+    <!-- Диалог удаления -->
+    <string name="dialog_title">Удалить рецепт?</string>
+    <string name="dialog_text">Рецепт будет удалён из книги рецептов. Это действие нельзя отменить.</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_delete_confirm">Удалить</string>
 </resources>
