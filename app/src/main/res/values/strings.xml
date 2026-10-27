@@ -5,4 +5,19 @@
     <string name="tab_home">Главная</string>
     <string name="tab_favorites">Избранное</string>
     <string name="tab_settings">Настройки</string>
+
+    <!-- Списки рецептов -->
+    <string name="search_hint">Поиск рецепта</string>
+    <string name="search_hint_short">Поиск</string>
+    <string name="recipes_label">Рецепты</string>
+    <string name="saved_label">Сохранённые рецепты</string>
+    <string name="cat_all">Все</string>
+    <string name="cat_breakfast">Завтраки</string>
+    <string name="cat_lunch">Обеды</string>
+    <string name="cat_dessert">Десерты</string>
+    <string name="empty_recipes">Рецептов пока нет</string>
+    <string name="empty_favorites">В избранном пока нет рецептов</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="photo_stub">[фото]</string>
+    <string name="minutes">%d мин</string>
 </resources>

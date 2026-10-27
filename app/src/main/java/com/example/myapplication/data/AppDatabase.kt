@@ -23,7 +23,6 @@ abstract class AppDatabase : RoomDatabase() {
                     "recipes.db"
                 )
                     .addCallback(object : RoomDatabase.Callback() {
-                        // выполняется один раз, когда база создаётся
                         override fun onCreate(db: SupportSQLiteDatabase) {
                             super.onCreate(db)
                             addStartRecipes(db)

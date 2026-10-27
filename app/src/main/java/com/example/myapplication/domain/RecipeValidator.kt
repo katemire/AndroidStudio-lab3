@@ -1,6 +1,5 @@
 package com.example.myapplication.domain
 
-// Какие поля формы заполнены неправильно
 data class FormErrors(
     val title: Boolean = false,
     val category: Boolean = false,
@@ -14,7 +13,6 @@ data class FormErrors(
 
 object RecipeValidator {
 
-    // Время должно быть целым числом больше нуля
     fun parseTime(text: String): Int? = text.trim().toIntOrNull()?.takeIf { it > 0 }
 
     fun validate(

@@ -5,4 +5,19 @@
     <string name="tab_home">Home</string>
     <string name="tab_favorites">Favorites</string>
     <string name="tab_settings">Settings</string>
+
+    <!-- Recipe lists -->
+    <string name="search_hint">Search recipes</string>
+    <string name="search_hint_short">Search</string>
+    <string name="recipes_label">Recipes</string>
+    <string name="saved_label">Saved recipes</string>
+    <string name="cat_all">All</string>
+    <string name="cat_breakfast">Breakfast</string>
+    <string name="cat_lunch">Lunch</string>
+    <string name="cat_dessert">Desserts</string>
+    <string name="empty_recipes">No recipes yet</string>
+    <string name="empty_favorites">No favorite recipes yet</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="photo_stub">[photo]</string>
+    <string name="minutes">%d min</string>
 </resources>
