@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+
+    <!-- Bottom navigation -->
+    <string name="tab_home">Home</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_settings">Settings</string>
+
+    <!-- Recipe lists -->
+    <string name="search_hint">Search recipes</string>
+    <string name="search_hint_short">Search</string>
+    <string name="recipes_label">Recipes</string>
+    <string name="saved_label">Saved recipes</string>
+    <string name="cat_all">All</string>
+    <string name="cat_breakfast">Breakfast</string>
+    <string name="cat_lunch">Lunch</string>
+    <string name="cat_dessert">Desserts</string>
+    <string name="empty_recipes">No recipes yet</string>
+    <string name="empty_favorites">No favorite recipes yet</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="photo_stub">[photo]</string>
+    <string name="minutes">%d min</string>
+
+    <!-- Recipe screen -->
+    <string name="btn_back">Back</string>
+    <string name="fav_add">Add to favorites</string>
+    <string name="fav_remove">In favorites</string>
+    <string name="time_label">Time</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="btn_edit">Edit recipe</string>
+
+    <!-- Recipe form -->
+    <string name="form_new">New recipe</string>
+    <string name="form_edit">Edit recipe</string>
+    <string name="label_title">Recipe name *</string>
+    <string name="hint_title">Name</string>
+    <string name="label_category">Category *</string>
+    <string name="hint_category">Category</string>
+    <string name="label_time">Time *</string>
+    <string name="hint_time">Time</string>
+    <string name="unit_min">min</string>
+    <string name="label_ingredients">Ingredients *</string>
+    <string name="hint_ingredients">Ingredients</string>
+    <string name="label_instructions">Instructions *</string>
+    <string name="hint_instructions">Instructions</string>
+    <string name="btn_save">Save recipe</string>
+    <string name="btn_save_changes">Save changes</string>
+    <string name="btn_delete">Delete recipe</string>
+    <string name="required_note">* Required fields</string>
+    <string name="error_required">Required field</string>
+    <string name="error_time">Enter a number greater than zero</string>
+    <string name="toast_fill">Fill in the required fields</string>
+
+    <!-- Delete dialog -->
+    <string name="dialog_title">Delete recipe?</string>
+    <string name="dialog_text">The recipe will be removed from the recipe book. This action cannot be undone.</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete_confirm">Delete</string>
+
+    <!-- Settings -->
+    <string name="section_appearance">Appearance</string>
+    <string name="theme_title">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">Same as system</string>
+    <string name="theme_system_short">System</string>
+    <string name="section_language">App language</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_en">English</string>
+    <string name="section_about">About</string>
+    <string name="about_version">App version</string>
+    <string name="about_privacy">Privacy policy</string>
+    <string name="about_feedback">Feedback</string>
+    <string name="privacy_text">The app keeps recipes and settings only on your device and does not send them to the internet.</string>
+    <string name="feedback_text">Found a bug or have an idea? Write to the author of the app.</string>
+    <string name="btn_ok">OK</string>
+</resources>

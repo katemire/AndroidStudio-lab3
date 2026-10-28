@@ -1,3 +1,78 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Книга рецептов</string>
+
+    <!-- Нижняя навигация -->
+    <string name="tab_home">Главная</string>
+    <string name="tab_favorites">Избранное</string>
+    <string name="tab_settings">Настройки</string>
+
+    <!-- Списки рецептов -->
+    <string name="search_hint">Поиск рецепта</string>
+    <string name="search_hint_short">Поиск</string>
+    <string name="recipes_label">Рецепты</string>
+    <string name="saved_label">Сохранённые рецепты</string>
+    <string name="cat_all">Все</string>
+    <string name="cat_breakfast">Завтраки</string>
+    <string name="cat_lunch">Обеды</string>
+    <string name="cat_dessert">Десерты</string>
+    <string name="empty_recipes">Рецептов пока нет</string>
+    <string name="empty_favorites">В избранном пока нет рецептов</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="photo_stub">[фото]</string>
+    <string name="minutes">%d мин</string>
+
+    <!-- Экран рецепта -->
+    <string name="btn_back">Назад</string>
+    <string name="fav_add">В избранное</string>
+    <string name="fav_remove">В избранном</string>
+    <string name="time_label">Время</string>
+    <string name="ingredients">Ингредиенты</string>
+    <string name="instructions">Приготовление</string>
+    <string name="btn_edit">Редактировать рецепт</string>
+
+    <!-- Форма рецепта -->
+    <string name="form_new">Новый рецепт</string>
+    <string name="form_edit">Изменить рецепт</string>
+    <string name="label_title">Название рецепта *</string>
+    <string name="hint_title">Название</string>
+    <string name="label_category">Категория *</string>
+    <string name="hint_category">Категория</string>
+    <string name="label_time">Время *</string>
+    <string name="hint_time">Время</string>
+    <string name="unit_min">мин</string>
+    <string name="label_ingredients">Ингредиенты *</string>
+    <string name="hint_ingredients">Ингредиенты</string>
+    <string name="label_instructions">Способ приготовления *</string>
+    <string name="hint_instructions">Способ приготовления</string>
+    <string name="btn_save">Сохранить рецепт</string>
+    <string name="btn_save_changes">Сохранить изменения</string>
+    <string name="btn_delete">Удалить рецепт</string>
+    <string name="required_note">* Обязательные поля</string>
+    <string name="error_required">Обязательное поле</string>
+    <string name="error_time">Введите число больше нуля</string>
+    <string name="toast_fill">Заполните обязательные поля</string>
+
+    <!-- Диалог удаления -->
+    <string name="dialog_title">Удалить рецепт?</string>
+    <string name="dialog_text">Рецепт будет удалён из книги рецептов. Это действие нельзя отменить.</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_delete_confirm">Удалить</string>
+
+    <!-- Настройки -->
+    <string name="section_appearance">Внешний вид</string>
+    <string name="theme_title">Тема оформления</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_system">Как в системе</string>
+    <string name="theme_system_short">Системная</string>
+    <string name="section_language">Язык приложения</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_en">English</string>
+    <string name="section_about">О приложении</string>
+    <string name="about_version">Версия приложения</string>
+    <string name="about_privacy">Политика конфиденциальности</string>
+    <string name="about_feedback">Обратная связь</string>
+    <string name="privacy_text">Приложение хранит рецепты и настройки только на вашем устройстве и не отправляет их в интернет.</string>
+    <string name="feedback_text">Нашли ошибку или хотите предложить улучшение? Напишите автору приложения.</string>
+    <string name="btn_ok">ОК</string>
 </resources>
