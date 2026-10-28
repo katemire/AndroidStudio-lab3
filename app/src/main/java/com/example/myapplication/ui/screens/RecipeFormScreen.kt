@@ -162,7 +162,6 @@ fun RecipeFormScreen(
     }
 }
 
-// Диалог подтверждения удаления, как в макете
 @Composable
 private fun DeleteDialog(onCancel: () -> Unit, onConfirm: () -> Unit) {
     val colors = MaterialTheme.colorScheme

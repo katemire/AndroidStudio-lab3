@@ -57,4 +57,22 @@
     <string name="dialog_text">The recipe will be removed from the recipe book. This action cannot be undone.</string>
     <string name="btn_cancel">Cancel</string>
     <string name="btn_delete_confirm">Delete</string>
+
+    <!-- Settings -->
+    <string name="section_appearance">Appearance</string>
+    <string name="theme_title">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">Same as system</string>
+    <string name="theme_system_short">System</string>
+    <string name="section_language">App language</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_en">English</string>
+    <string name="section_about">About</string>
+    <string name="about_version">App version</string>
+    <string name="about_privacy">Privacy policy</string>
+    <string name="about_feedback">Feedback</string>
+    <string name="privacy_text">The app keeps recipes and settings only on your device and does not send them to the internet.</string>
+    <string name="feedback_text">Found a bug or have an idea? Write to the author of the app.</string>
+    <string name="btn_ok">OK</string>
 </resources>
